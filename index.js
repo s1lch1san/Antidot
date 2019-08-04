@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-  bot.login("NjA3MjA0MzY5NDc3MTQwNDkx.XUavGQ.FKrDwGaN3Uqgg7_JaGf6gVSEBbo");
+  bot.login("NjA3MjA0MzY5NDc3MTQwNDkx.XUaykA.V65m7WJ7gMnv4ToQsdtGswbL_1Q");
 
 bot.on('ready', () =>{
     // 605164603986542592
